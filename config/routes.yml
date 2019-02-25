@@ -1,0 +1,7 @@
+# Routings
+fbsample_bocontroller_index:
+    path:     /fbsample_bocontroller/index
+    methods:  [GET]
+    defaults:
+        _controller: 'FBenoist\FbSample_bocontroller\Controller\IndexController::indexAction'
+

@@ -1,0 +1,7 @@
+/* Remove bottom padding from PrestaShop menu and Add bottom padding to module menu */
+.main-menu {
+    padding-bottom: 0 !important;
+}
+.main-menu:last-of-type {
+    padding-bottom: 5.313rem !important
+}
